@@ -9,14 +9,14 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=YOGINIMAHIMA1&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-<h1>Mahima Bhardwaj</h1><br>
-<b>Dreamer </b>  <u> Believer </u>  <em>Achiever</em><br>
-<b>C/C++ Programmer/Developer</b><br>
-<i>Html 5/Css</i><br>
+<h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=F63175&pause=100&multiline=true&width=600&height=100&linesMahima Bhardwaj</h1><br>
+<b>Dreamer +</b> + <u> +Believer +</u>+  <em>+Achiever</em><br>
+<b>C/C+++ Programmer+ /Developer</b><br>
+<i>Html+ 5+/ +Css</i><br>
 <hr width="80px" height="40px" color="red" />
-<marquee>Good Knowledge of Cmd<br></marquee>
-<b>Microsoft Azure Badge Achiever<b><br>
-  <h2>hackerrank certificate- My sql Basics/Intermediate</h2><br>
+<marquee>Good+ Knowledge + of +Cmd<br></marquee>
+<b>Microsoft +Azure+ Badge+ Achiever<b><br>
+  <h2>hackerrank +certificate- +My+ sql +Basics/+Intermediate" alt="Typing SVG" />
 
 <!---
 YOGINIMAHIMA1/YOGINIMAHIMA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
