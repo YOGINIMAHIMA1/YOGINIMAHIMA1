@@ -21,7 +21,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=ff0f00&pause=100&multiline=true&width=600&height=100&lines=I’m currently learning **DATA STRUCTURES AND ALGORITHM**">
 
-- 👯 I’m looking to collaborate on **OPEN CV**
+<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&height=100&lines= I’m looking to collaborate on **C++ Projects  **
 
 - 💬 Ask me about **C/C++**
 
