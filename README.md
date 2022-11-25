@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/YOGINIMAHIMA1">
-    <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&pause=100&multiline=true&width=600&height=100&Color=#00ff00lines=Mahima+Bhardwaj;C +Plus +Plus Developer+%7C+C Programmer+Student+%7C+Html+CSS;Front +End+ Developer+%7C+Computer+Vision+%7C+SQl" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&pause=100&multiline=true&width=600&height=100&color=#00ff00lines=Mahima+Bhardwaj;C +Plus +Plus Developer+%7C+C Programmer+Student+%7C+Html+CSS;Front +End+ Developer+%7C+Computer+Vision+%7C+SQl" alt="Typing SVG" />
 </a>
 <br/>
 
