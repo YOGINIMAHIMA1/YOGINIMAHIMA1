@@ -6,7 +6,7 @@
 </a>
 <br/>
     <a href="https://github.com/YOGINIMAHIMA1">
-    <img src="https://github-stats-alpha.vercel.app/api?username=MahimaBhardwaj&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=YOGINIMAHIMA1&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 <h1>Mahima Bhardwaj</h1><br>
