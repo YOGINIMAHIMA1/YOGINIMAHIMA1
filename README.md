@@ -6,7 +6,7 @@
 </a>
 <br/>
     <a href="https://github.com/YOGINIMAHIMA1">
-    <img src="https://github-stats-alpha.vercel.app/api?username=YOGINIMAHIMA1&cc=22272e&tc=ffff00&ic=00ff00&bc=#F71E61FF">
+    <img src="https://github-stats-alpha.vercel.app/api?username=YOGINIMAHIMA1&cc=22272e&tc=ffff00&ic=00ff00&bc=#0000ff">
 </a>
 
 <h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=00ff00&pause=100&multiline=true&width=600&height=100&lines=Dreamer + Achiever +Believer" alt="Typing SVG" />
