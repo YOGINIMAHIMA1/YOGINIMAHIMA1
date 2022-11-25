@@ -14,6 +14,10 @@
      <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000FFF&align=center&pause=100&multiline=true&width=600&lines=Hackerrank Certificate In SQl BASICS AND INTERMEDIATE"/>
 
 
+
+
+https://user-images.githubusercontent.com/90374311/203971819-8f6b36e4-041e-4608-8271-07d57451c9cc.mp4
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoginimahima1&label=Profile%20views&color=0e75b6&style=flat" alt="yoginimahima1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoginimahima1" alt="yoginimahima1" /></a> </p>
