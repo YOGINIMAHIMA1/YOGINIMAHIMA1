@@ -6,13 +6,12 @@
 </a>
 <br/>
     <a href="https://github.com/YOGINIMAHIMA1">
-    <img src="https://github-stats-alpha.vercel.app/api?username=YOGINIMAHIMA1&cc=22272e&tc=ffff00&ic=00ff00&bc=#0000ff">
+    <img src="https://github-stats-alpha.vercel.app/api?username=YOGINIMAHIMA1&cc=22272e&tc=ffff00&ic=00ff00&bc=#ff0ff0">
 </a>
 
 <h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=00ff00&pause=100&multiline=true&width=600&&lines=Dreamer + Achiever +Believer" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&height=100&lines=Microsoft + Azure+  Badge+ Achiever" alt="Typing SVG" />
      <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000FFF&align=center&pause=100&multiline=true&width=600&lines=Hackerrank Certificate In SQl BASICS AND INTERMEDIATE"/>
-
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoginimahima1&label=Profile%20views&color=0e75b6&style=flat" alt="yoginimahima1" /> </p>
