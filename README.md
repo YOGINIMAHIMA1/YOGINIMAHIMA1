@@ -5,6 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=F63175&pause=100&multiline=true&width=600&height=100&lines=Mahima+Bhardwaj;C +Plus +Plus Developer+%7C+C Programmer+Student+%7C+Html+CSS;Front +End+ Developer+%7C+Computer+Vision+%7C+SQl" alt="Typing SVG" />
 </a>
 <br/>
+    <a href="https://github.com/YOGINIMAHIMA1">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Mahima Bhardwaj&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
 <h1>Mahima Bhardwaj</h1><br>
 <b>Dreamer </b>  <u> Believer </u>  <em>Achiever</em><br>
