@@ -14,12 +14,7 @@
      <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000FFF&align=center&pause=100&multiline=true&width=600&lines=Hackerrank Certificate In SQl BASICS AND INTERMEDIATE"/>
 
 
-
-
-
-
 https://user-images.githubusercontent.com/90374311/203972706-ddeaaccf-b79a-40f2-a678-d334c7f2103b.mp4
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoginimahima1&label=Profile%20views&color=0e75b6&style=flat" alt="yoginimahima1" /> </p>
