@@ -41,11 +41,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoginimahima1&show_icons=true&locale=en&layout=compact" alt="yoginimahima1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoginimahima1&show_icons=true&locale=en" alt="yoginimahima1" /></p>
 
 <a href=#><img src="contributions.svg"></a>
-
-
 
 <p align="center"> 
   Visitor count<br>
