@@ -12,12 +12,6 @@
 <h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=00ff00&pause=100&multiline=true&width=600&height=100&lines=Dreamer + Achiever +Believer" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&height=100&lines=Microsoft + Azure+  Badge+ Achiever" alt="Typing SVG" />
 
-<!---
-YOGINIMAHIMA1/YOGINIMAHIMA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Mahima Bhardwaj</h1>
-<h3 align="center">A passionate C/C++ developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoginimahima1&label=Profile%20views&color=0e75b6&style=flat" alt="yoginimahima1" /> </p>
