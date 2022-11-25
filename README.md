@@ -11,7 +11,7 @@
 
 <h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=00ff00&pause=100&multiline=true&width=600&height=100&lines=Dreamer + Achiever +Believer" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&height=100&lines=Microsoft + Azure+  Badge+ Achiever" alt="Typing SVG" />
-     <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=F63175&pause=100&multiline=true&width=600&height=100&lines=Hackerrank Certificate In SQl BASICS AND INTERMEDIATE"/>
+     <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000FFF&align=center&pause=100&multiline=true&width=600&height=100&lines=Hackerrank Certificate In SQl BASICS AND INTERMEDIATE"/>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
