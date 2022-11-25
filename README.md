@@ -10,12 +10,8 @@
 </a>
 
 <h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=00ff00&pause=100&multiline=true&width=600&height=100&lines=Dreamer + Achiever +Believer" alt="Typing SVG" />
-<b>Dreamer </b> <u> Believer </u>+  <em>Achiever</em><br>
-<b>C/C+++ Programmer+ /Developer</b><br>
-<i>Html 5/ Css</i><br>
-Good+ Knowledge + of +Cmd<br></marquee>
-<b>Microsoft +Azure+ Badge+ Achiever<b><br>
-  <h2>hackerrank certificate- Mysql Basics/Intermediate
+<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=F63175&pause=100&multiline=true&width=600&height=100&lines=Microsoft + Azure+  Badge+ Achiever<br>
+  + hackerrank certificate- My +sql+ Basics +Intermediate" alt="Typing SVG" />
 
 <!---
 YOGINIMAHIMA1/YOGINIMAHIMA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
