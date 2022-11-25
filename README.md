@@ -9,7 +9,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=YOGINIMAHIMA1&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-<h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=F63175&pause=100&multiline=true&width=600&height=100&lines=Mahima Bhardwaj" alt="Typing SVG" />
+<h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=00ff00&pause=100&multiline=true&width=600&height=100&lines=Dreamer + Achiever +Believer" alt="Typing SVG" />
 <b>Dreamer </b> <u> Believer </u>+  <em>Achiever</em><br>
 <b>C/C+++ Programmer+ /Developer</b><br>
 <i>Html 5/ Css</i><br>
