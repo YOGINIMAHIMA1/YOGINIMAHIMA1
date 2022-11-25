@@ -11,7 +11,7 @@
 
 <h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=00ff00&pause=100&multiline=true&width=600&&lines=Dreamer + Achiever +Believer" alt="Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&height=100&lines=Microsoft + Azure+  Badge+ Achiever" alt="Typing SVG" />
-     <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000FFF&align=center&pause=100&multiline=true&width=600&height=100&lines=Hackerrank Certificate In SQl BASICS AND INTERMEDIATE"/>
+     <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000FFF&align=center&pause=100&multiline=true&width=600&&lines=Hackerrank Certificate In SQl BASICS AND INTERMEDIATE"/>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
@@ -19,13 +19,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoginimahima1" alt="yoginimahima1" /></a> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=ff0f00&pause=100&multiline=true&width=600&height=100&lines=I’m currently learning **DATA STRUCTURES AND ALGORITHM**">
+<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=ff0f00&pause=100&multiline=true&width=600&&lines=I’m currently learning **DATA STRUCTURES AND ALGORITHM**">
 
-<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&height=100&lines= I’m looking to collaborate on **C++ Projects  **" />
+<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&&lines= I’m looking to collaborate on **C++ Projects  **" />
 
-- 💬 Ask me about **C/C++**
+<img src="https://readme-typing-svg.demolab.com?font=Elephant&size=20&duration=2000&color=f00f00&pause=100&multiline=true&width=600&&lines= Ask me about **C/C++**"/>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahima-bhardwaj-49425922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahima-bhardwaj-49425922b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19367656/mahima-bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19367656/mahima-bhardwaj" height="30" width="40" /></a>
