@@ -17,8 +17,6 @@
 https://user-images.githubusercontent.com/90374311/203972706-ddeaaccf-b79a-40f2-a678-d334c7f2103b.mp4
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoginimahima1" alt="yoginimahima1" /></a> </p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=ff0f00&pause=100&multiline=true&width=600&&lines=I’m currently learning **DATA STRUCTURES AND ALGORITHM**">
 
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&&lines= I’m looking to collaborate on **C++ Projects  **" />
