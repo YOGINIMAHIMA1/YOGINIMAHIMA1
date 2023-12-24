@@ -9,13 +9,13 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=YOGINIMAHIMA1&cc=22272e&tc=ffff00&ic=00ff00&bc=#ff0ff0">
 </a>
 
-<h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=00ff00&pause=100&multiline=true&width=600&&lines=Dreamer + Achiever +Believer" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&height=100&lines=Microsoft + Azure+  Badge+ Achiever" alt="Typing SVG" />
-     <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000FFF&align=center&pause=100&multiline=true&width=600&lines=Hackerrank Certificate In SQl BASICS AND INTERMEDIATE"/>
+<h1><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=00ff00&pause=100&multiline=true&width=600&&lines=Aspiring Full Stack Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&height=100&lines= FrontEnd Developer" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000FFF&align=center&pause=100&multiline=true&width=600&lines=Currently enrolled in Cyber Security"/>
 
 
+https://youtu.be/z7mng7HEF48?si=WMsyTaOicjjf3H5D
 
-https://user-images.githubusercontent.com/90374311/203972706-ddeaaccf-b79a-40f2-a678-d334c7f2103b.mp4
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=ff0f00&pause=100&multiline=true&width=600&&lines=I’m currently learning **DATA STRUCTURES AND ALGORITHM**">
