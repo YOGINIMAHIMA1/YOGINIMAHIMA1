@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/YOGINIMAHIMA1">
-    <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=F63175&pause=100&multiline=true&width=600&height=100&lines=Mahima+Bhardwaj;Aspiring Full Stack Developer+%7C+C Programmer+Student+%7C+Html+CSS;Front +End+ Developer+%7C+Computer+Vision+%7C+SQl" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=F63175&pause=100&multiline=true&width=600&height=100&lines=Mahima+Bhardwaj;Aspiring Full Stack Developer+%7C++ Programmer;Front +End+ Developer+%7C+Computer+Vision+%7C+SQl" alt="Typing SVG" />
 </a>
 <br/>
     <a href="https://github.com/YOGINIMAHIMA1">
@@ -14,11 +14,7 @@
      <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000FFF&align=center&pause=100&multiline=true&width=600&lines=Currently enrolled in Cyber Security"/>
 
 
-https://youtu.be/z7mng7HEF48?si=WMsyTaOicjjf3H5D
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=ff0f00&pause=100&multiline=true&width=600&&lines=I’m currently learning **DATA STRUCTURES AND ALGORITHM**">
+<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=ff0f00&pause=100&multiline=true&width=600&&lines=I’m currently learning ** Javascript Game Development**">
 
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&&lines= I’m looking to collaborate on **C++ Projects  **" />
 
