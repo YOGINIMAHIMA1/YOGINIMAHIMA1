@@ -16,14 +16,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=ff0f00&pause=100&multiline=true&width=600&&lines=I’m currently learning ** Javascript Game Development**">
 
-<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&&lines= I’m looking to collaborate on **C++ Projects  **" />
+<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=fff000&pause=100&multiline=true&width=600&&lines= I’m looking to collaborate on + **C++ Projects  **" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Elephant&size=20&duration=2000&color=f00f00&pause=100&multiline=true&width=600&&lines= Ask me about **C/C++**"/>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mahima-bhardwaj-49425922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahima-bhardwaj-49425922b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19367656/mahima-bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19367656/mahima-bhardwaj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mahima_bhardwaj__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mahima_bhardwaj__/" height="30" width="40" /></a>
+<a href="https://www.twitter.com/MahimaBh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/MahimaBh2" height="30" width="40" /></a>
 <a href="https://www.youtube.com/watch?v=_LeVnGcbqGo&ab_channel=WOMENWHOCODE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/shorts/qsVBTwJnYiU" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/mahimacoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mahimacoder" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhardwajmahima81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/bhardwajmahima81" height="30" width="40" /></a>
