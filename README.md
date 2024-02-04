@@ -59,7 +59,7 @@
 
 ## Latest Blog Posts  
 
-<a href="https://medium.com/@MahimaBhardwaj21"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png"/></a><br>
+ <a href="https://medium.com/MahimaBhardwaj21"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=darkblack" alt="profile of Medium with username MahimaBhardwaj21"  ></a>
 
 <!-- BLOG-POST-LIST:START -->
 - [A complete guide to How to Create Simple Web Page Using DOM](https://medium.com/@MahimaBhardwaj21/how-to-create-simple-web-page-using-dom-93fcffc7d846)
