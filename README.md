@@ -116,16 +116,16 @@
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | Zomato Clone| [Github](https://github.com/YOGINIMAHIMA1/ZomatoClone) | [view](http://yogawithmahima.me/ZomatoClone/) |-| `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| Created Issues | [LinkHub](https://github.com/rupali-codes/LinksHub/) | [view](https://github.com/rupali-codes/LinksHub/issues/2251) | `TypeScript` `GitHub Actions` `GitHub API`| 
-|  Portfolio App | - | [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)|-  | `Html` `Css` `Javascript`| 
+| Created Issues|  [LinkHub](https://github.com/rupali-codes/LinksHub/) | [view](https://github.com/rupali-codes/LinksHub/issues/2251) | `TypeScript` `GitHub Actions` `GitHub API`| 
+|  Portfolio App |  [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)|-  | `Html` `Css` `Javascript`| 
 | Passenger Counter App | [Github](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
 | Digital Clock | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
 | Portfolio | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio))|  |
-| TicTacToc.cpp | - | [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) |[View](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp)| `CPP`
+| TicTacToc.cpp |   [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) |[View](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp)| `CPP`
 | Special Repository | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2)| [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
 | Number Guess Game | [view](Task1(NumberGuessGame).cpp) | - | `CPP`|
-| Conceptual Mini Projects | - | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [View](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
-| C++ Special Programs | - | [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) |[view](https://github.com/YOGINIMAHIMA1/DataStructure-)| | `C++` |
+| Conceptual Mini Projects |  [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [View](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
+| C++ Special Programs |  [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) |[view](https://github.com/YOGINIMAHIMA1/DataStructure-)| | `C++` |
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
