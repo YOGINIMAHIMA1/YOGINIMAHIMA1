@@ -125,7 +125,7 @@
 | Special Repository | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2)| [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
 | Number Guess Game | [Github](Task1(NumberGuessGame).cpp) | [View](Task1(NumberGuessGame).cpp) |  `CPP`  `Data Structure`|
 | Conceptual Mini Projects |  [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [View](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
-| C++ Special Programs |  [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) |[view](https://github.com/YOGINIMAHIMA1/DataStructure-)| | `C++` |
+| C++ Special Programs |  [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) |[view](https://github.com/YOGINIMAHIMA1/DataStructure-)| `C++` |
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
