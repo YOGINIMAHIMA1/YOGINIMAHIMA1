@@ -115,17 +115,17 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Zomato Clone| [Github](https://github.com/YOGINIMAHIMA1/ZomatoClone) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
+| Zomato Clone| [Github](https://github.com/YOGINIMAHIMA1/ZomatoClone) | [view](http://yogawithmahima.me/ZomatoClone/)  - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
 | Created Issues | [LinkHub](https://github.com/rupali-codes/LinksHub/) | [view](https://github.com/rupali-codes/LinksHub/issues/2251) | `TypeScript` `GitHub Actions` `GitHub API`| 
-|  Portfolio App | - | [Github](https://yoginimahima1.github.io/MahimaPortfolio/) | `Html` `Css` `Javascript`| 
+|  Portfolio App | - | [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)  | `Html` `Css` `Javascript`| 
 | Passenger Counter App | [Github](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
 | Digital Clock | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
-| Portfolio | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)|  |
-| Tic Tac Toc.cpp | - | [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) | `CPP`
-|  | [Github] | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
+| Portfolio | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio))|  |
+| TicTacToc.cpp | - | [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) |[View](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp)| `CPP`
+| Special Repository | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2)| [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
 | Number Guess Game | [Github](Task1(NumberGuessGame).cpp) | - | `CPP`|
-| Conceptual Mini Projects | - | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
-| C++ Special Programs | - | [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) | `C++` |
+| Conceptual Mini Projects | - | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) |[View](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
+| C++ Special Programs | - | [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) |[View](https://github.com/YOGINIMAHIMA1/DataStructure-) `C++` |
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -169,7 +169,7 @@ You can check the workflows here: (.github/workflows)
   <a href="https://auth.geeksforgeeks.org/user/bhardwajmahima81"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a> 
   <br> 
   <a href="https://www.producthunt.com/@mahima_bhardwaj2"><img src="https://img.shields.io/badge/Product%20Hunt-0A0209?style=for-the-badge&logo=Product%20Hunt&logoColor=d5d5d5" /></a>
-  <a href="https://www.hackerrank.com/profile/bhardwajmahima81"><img src="https://img.shields.io/badge/Dribbble-0A0209?style=for-the-badge&logo=dribbble&logoColor=d5d5d5" /></a>
+  <a href="https://www.hackerrank.com/profile/bhardwajmahima81"><img src="https://img.shields.io/badge/Hackerrank-0A0209?style=for-the-badge&logo=hackerrank&logoColor=d5d5d5" /></a>
   <a href="https://devpost.com/YOGINIMAHIMA1"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a> 
   <a href="https://medium.com/Mahimabhardwaj21"><img src="https://img.shields.io/badge/medium-0A0209?style=for-the-badge&logo=medium&logoColor=d5d5d5" ></a>
   <br>
