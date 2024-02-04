@@ -34,7 +34,7 @@
 
 🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b) and [Twitter](https://twitter.com/MahimaBh2).
 
-✨ I'm part of core developer team at [WOMENWHOCODE](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in GitHub [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
+✨ I'm part of core developer team at [WOMENWHOCODE](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in Linked Top Web Development Voice [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
 
 
 🎓 &nbsp; I'm pursuing MCA From Sushant University, and played a pivotal role as a contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into open source success story.
@@ -117,15 +117,15 @@
 |:---------|:-------------:|:----------:|:-------------------|
 | Zomato Clone| [Github](https://github.com/YOGINIMAHIMA1/ZomatoClone) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
 | Created Issues | [LinkHub](https://github.com/rupali-codes/LinksHub/) | [view](https://github.com/rupali-codes/LinksHub/issues/2251) | `TypeScript` `GitHub Actions` `GitHub API`| 
-|  Portfolio App | - | [view](https://yoginimahima1.github.io/MahimaPortfolio/) | `Html` `Css` `Javascript`| 
-| Passenger Counter App | [view](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
-| Digital Clock | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
-| Portfolio | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)|  |
-| Tic Tac Toc.cpp | - | [view](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) | `CPP`
+|  Portfolio App | - | [Github](https://yoginimahima1.github.io/MahimaPortfolio/) | `Html` `Css` `Javascript`| 
+| Passenger Counter App | [Github](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
+| Digital Clock | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
+| Portfolio | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)|  |
+| Tic Tac Toc.cpp | - | [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) | `CPP`
 |  | [view](TASK2(TODOLIST APP) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
-| Number Guess Game | [view](Task1(NumberGuessGame).cpp) | - | `CPP`|
-| Conceptual Mini Projects | - | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
-| C++ Special Programs | - | [view](https://github.com/YOGINIMAHIMA1/DataStructure-) | `C++` |
+| Number Guess Game | [Github](Task1(NumberGuessGame).cpp) | - | `CPP`|
+| Conceptual Mini Projects | - | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
+| C++ Special Programs | - | [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) | `C++` |
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
