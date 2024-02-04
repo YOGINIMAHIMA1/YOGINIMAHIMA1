@@ -28,7 +28,7 @@
 
 <div>
 
-<i>&nbsp; <h2 style="color:#00ff00">Building products with open source.</i><br><br></h2>
+<i>&nbsp; <h2 style="bg-color:#00ff00">Building products with open source.</i><br><br></h2>
 
 👋 Greetings! It's great to have you here. I'm Mahima Bhardwaj, a frontend developer from India, super into Open Source, and love creating contect on Youtube and LinkedIn.
 
