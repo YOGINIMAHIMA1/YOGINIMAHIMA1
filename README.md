@@ -15,8 +15,8 @@
  <a href="https://www.linkedin.com/in/mahima-bhardwaj-49425922b/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username mahimabhardwaj" /></a>
   <a href="mailto:mahimabhardwajmahimabhardwaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Mahima Bhardwaj i.e.mahimabhardwajmahimabahrdwaj@.com" /></a>
   <a href="https://twitter.com/MahimaBh2"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MahimaBh2" ></a>
-  <a href="https://medium.com/@MahimaBhardwaj21"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT323xg6ShY26HhvbdOj6NrKcrDvJV9Nq3Zx5oVyQRD4A&s" alt="profile of Medium with username MahimaBhardwaj21"  width="25px"></a>
-  <a href="https://bento.me/mahima-bhardwaj">
+  <a href="https://medium.com/@MahimaBhardwaj21"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=x&logoColor=0A020" alt="profile of Medium with username MahimaBhardwaj21"  width="25px"></a>
+  <a href="https://bento.me/mahima-bhardwaj"><img src="https://img.shields.io/badge/bendo-d5d5d5?style=for-the-badge&logo=x&logoColor=0A020">
 </div>
 <br>
 
