@@ -122,7 +122,7 @@
 | Digital Clock | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
 | Portfolio | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)|  |
 | Tic Tac Toc.cpp | - | [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) | `CPP`
-|  | [view](TASK2(TODOLIST APP) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
+|  | [Github] | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
 | Number Guess Game | [Github](Task1(NumberGuessGame).cpp) | - | `CPP`|
 | Conceptual Mini Projects | - | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
 | C++ Special Programs | - | [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) | `C++` |
@@ -171,13 +171,13 @@ You can check the workflows here: (.github/workflows)
   <a href="https://www.producthunt.com/@mahima_bhardwaj2"><img src="https://img.shields.io/badge/Product%20Hunt-0A0209?style=for-the-badge&logo=Product%20Hunt&logoColor=d5d5d5" /></a>
   <a href="https://www.hackerrank.com/profile/bhardwajmahima81"><img src="https://img.shields.io/badge/Dribbble-0A0209?style=for-the-badge&logo=dribbble&logoColor=d5d5d5" /></a>
   <a href="https://devpost.com/YOGINIMAHIMA1"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a> 
-  <a href="https://medium.com/Mahimabhardwaj21"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
+  <a href="https://medium.com/Mahimabhardwaj21"><img src="https://img.shields.io/badge/medium-0A0209?style=for-the-badge&logo=medium&logoColor=d5d5d5" ></a>
   <br>
   <a href="https://www.codecademy.com/profiles/https://www.codecademy.com/profiles/mahimaBhardwaj8069273426"><img src="https://img.shields.io/badge/Codecademy-d5d5d5?style=for-the-badge&logo=codecademy&logoColor=0A0209" /></a> 
   <a href="https://dev.to/mahimabhardwaj"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
   <a href="https://www.linkedin.com/in/mahima-bhardwaj-49425922b/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:mahimabhardwajmahimabhardwaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://medium.com/@MahimaBhardwaj21"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="medium" >
+  <a href="https://youtube.com/@WOMENWHOCODE11"><img src="https://img.shields.io/badge/Youtube-d5d5d5?style=for-the-badge&logo=Youtube&logoColor=0A0209"" alt="Youtube" >
   <a href="https://twitter.com/MahmaBh2"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="MahimaBh2" ></a>
   
 </div>
