@@ -43,7 +43,7 @@
 
 🔖 &nbsp; I have written several trending articles on [medium](medium.com/@MahimaBhardwaj21) with more than 1k views . Shoot me a message at mahimabhardwajmahimabhardwaj@gmail.com for sponsorships and collaboration.
 
-🎁 I've been active on Product Hunt, where my outstanding [open-source resource](https://www.producthunt.com/@mahima_bhardwaj2) . I'm planning to launch more open source products in 2024.
+🎁 I've been active on Youtube, where my outstanding [Youtube](https://www.Youtube.com/WOMENWHOCODE11) . I'm planning to launch more open source products in 2024.
 
 😄 &nbsp; When I'm not coding, you can find me writing insightful articles on [Medium](https://medium.com/@MahimaBhardwaj21),  or creating content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922) & [Twitter](https://twitter.com/MahimaBh2)
 
@@ -115,7 +115,7 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Zomato Clone| [Github](https://github.com/YOGINIMAHIMA1/ZomatoClone) | [view](http://yogawithmahima.me/ZomatoClone/)  - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
+| Zomato Clone| [Github](https://github.com/YOGINIMAHIMA1/ZomatoClone) | [view](http://yogawithmahima.me/ZomatoClone/) |-| `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
 | Created Issues | [LinkHub](https://github.com/rupali-codes/LinksHub/) | [view](https://github.com/rupali-codes/LinksHub/issues/2251) | `TypeScript` `GitHub Actions` `GitHub API`| 
 |  Portfolio App | - | [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)  | `Html` `Css` `Javascript`| 
 | Passenger Counter App | [Github](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
@@ -124,8 +124,8 @@
 | TicTacToc.cpp | - | [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) |[View](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp)| `CPP`
 | Special Repository | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2)| [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
 | Number Guess Game | [Github](Task1(NumberGuessGame).cpp) | - | `CPP`|
-| Conceptual Mini Projects | - | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) |[View](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
-| C++ Special Programs | - | [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) |[View](https://github.com/YOGINIMAHIMA1/DataStructure-) `C++` |
+| Conceptual Mini Projects | - | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) |[View]|-`Cpp`|(https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
+| C++ Special Programs | - | [Github](https://github.com/YOGINIMAHIMA1/DataStructure-) |[View](https://github.com/YOGINIMAHIMA1/DataStructure-)| `C++` |
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
