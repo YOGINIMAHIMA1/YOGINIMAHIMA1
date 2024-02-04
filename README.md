@@ -41,7 +41,7 @@
 
 🚀 &nbsp; I'm also part of exciting communities like [WebXDAO](https://github.com/WebXDAO), [Taipy](https://github.com/Avaiga/taipy), [DEV](https://dev.to/about) and my forte lies in exploring technologies like Nextjs with TypeScript to build products.
 
-🔖 &nbsp; I have written several trending articles on [https://medium.com/](medium.com/@MahimaBhardwaj21) with more than 1k views . Shoot me a message at mahimabhardwajmahimabhardwaj@gmail.com for sponsorships and collaboration.
+🔖 &nbsp; I have written several trending articles on [medium](medium.com/@MahimaBhardwaj21) with more than 1k views . Shoot me a message at mahimabhardwajmahimabhardwaj@gmail.com for sponsorships and collaboration.
 
 🎁 I've been active on Product Hunt, where my outstanding [open-source resource](https://www.producthunt.com/@mahima_bhardwaj2) . I'm planning to launch more open source products in 2024.
 
