@@ -8,7 +8,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYOGINIMAHIMA1%2FYOGINIMAHIMA1&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYOGINIMAHIMA1%2FYOGINIMAHIMA1&label=VISITORS&labelColor=%23000&countColor=#00ffoo" />
   <br><br>
   
   <a href="https://dev.to/mahimabhardwaj"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username mahimabhardwaj" /></a>
@@ -34,7 +34,7 @@
 
 🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b) and [Twitter](https://twitter.com/MahimaBh2).
 
-✨ I'm part of core developer team at [Guidlify](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in GitHub [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
+✨ I'm part of core developer team at [WOMENWHOCODE](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in GitHub [Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
 
 
 🎓 &nbsp; I'm pursuing MCA From Sushant University, and played a pivotal role as a contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into open source success story.
@@ -79,7 +79,7 @@
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Baranwal&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOGINIMAHIMA1&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -119,8 +119,8 @@
 | Created Issues | [LinkHub](https://github.com/rupali-codes/LinksHub/) | [view](https://github.com/rupali-codes/LinksHub/issues/2251) | `TypeScript` `GitHub Actions` `GitHub API`| 
 |  Portfolio App | - | [view](https://yoginimahima1.github.io/MahimaPortfolio/) | `Html` `Css` `Javascript`| 
 | Passenger Counter App | [view](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
-| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
-| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
+| Digital Clock | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
+| Portfolio | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)|  |
 | Tic Tac Toc.cpp | - | [view](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) | `CPP`
 |  | [view](TASK2(TODOLIST APP) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
 | Number Guess Game | [view](Task1(NumberGuessGame).cpp) | - | `CPP`|
