@@ -16,7 +16,7 @@
  <a href="https://www.linkedin.com/in/mahima-bhardwaj-49425922b/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username mahimabhardwaj" /></a>
   <a href="mailto:mahimabhardwajmahimabhardwaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Mahima Bhardwaj i.e.mahimabhardwajmahimabahrdwaj@.com" /></a>
   <a href="https://twitter.com/MahimaBh2"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MahimaBh2" ></a>
-  <a href="https://medium.com/MahimaBhardwaj21"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=darkblack" alt="profile of Medium with username MahimaBhardwaj21"  ></a>
+  <a href="https://medium.com/@MahimaBhardwaj21"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=darkblack" alt="profile of Medium with username MahimaBhardwaj21"  ></a>
   <a href="https://bento.me/mahima-bhardwaj"><img src="https://img.shields.io/badge/bento-d5d5d5?style=for-the-badge&logo=bento&logoColor=darkblack">
 </div>
 <br>
@@ -41,7 +41,7 @@
 
 🚀 &nbsp; I'm also part of exciting communities like [WebXDAO](https://github.com/WebXDAO), [Taipy](https://github.com/Avaiga/taipy), [DEV](https://dev.to/about) and my forte lies in exploring technologies like Nextjs with TypeScript to build products.
 
-🔖 &nbsp; I have written several trending articles on [medium](medium.com/@MahimaBhardwaj21) with more than 1k views . Shoot me a message at mahimabhardwajmahimabhardwaj@gmail.com for sponsorships and collaboration.
+🔖 &nbsp; I have written several trending articles on [medium](https://medium.com/@MahimaBhardwaj21) with more than 1k views . Shoot me a message at mahimabhardwajmahimabhardwaj@gmail.com for sponsorships and collaboration.
 
 🎁 I've been active on Youtube, where my outstanding [Youtube](https://www.Youtube.com/WOMENWHOCODE11) . I'm planning to launch more open source products in 2024.
 
@@ -59,7 +59,7 @@
 
 ## Latest Blog Posts  
 
- <a href="https://medium.com/MahimaBhardwaj21"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=darkblack" alt="profile of Medium with username MahimaBhardwaj21"  ></a>
+ <a href="https://medium.com/@MahimaBhardwaj21"><img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=darkblack" alt="profile of Medium with username MahimaBhardwaj21"  ></a>
 
 <!-- BLOG-POST-LIST:START -->
 - [A complete guide to How to Create Simple Web Page Using DOM](https://medium.com/@MahimaBhardwaj21/how-to-create-simple-web-page-using-dom-93fcffc7d846)
