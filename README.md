@@ -12,7 +12,7 @@
   <br><br>
   
   <a href="https://dev.to/mahimabhardwaj"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username mahimabhardwaj" /></a>
-<a href="https://Youtube.com/WOMENWHOCODE11"><img src="https://img.shields.io/badge/Youtube-d5d5d5?style=for-the-badge&logo=Youtube&logoColor=red">
+<a href="https://Youtube.com/WOMENWHOCODE11"><img src="https://img.shields.io/badge/Youtube-d5d5d5?style=for-the-badge&logo=Youtube&logoColor=red" /></a>
  <a href="https://www.linkedin.com/in/mahima-bhardwaj-49425922b/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username mahimabhardwaj" /></a>
   <a href="mailto:mahimabhardwajmahimabhardwaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Mahima Bhardwaj i.e.mahimabhardwajmahimabahrdwaj@.com" /></a>
   <a href="https://twitter.com/MahimaBh2"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MahimaBh2" ></a>
