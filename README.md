@@ -34,7 +34,7 @@
 
 🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b) and [Twitter](https://twitter.com/MahimaBh2).
 
-✨ I'm part of core developer team at [WOMENWHOCODE](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in Linked Top Web Development Voice [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b/)[Top 5%](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card).
+✨ I'm part of core developer team at [WOMENWHOCODE](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in Linked Top 4% Software Development Voice [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b/)[(https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card)].
 
 
 🎓 &nbsp; I'm pursuing MCA From Sushant University, and played a pivotal role as a contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into open source success story.
@@ -45,7 +45,7 @@
 
 🎁 I've been active on Youtube, where my outstanding [Youtube](https://www.Youtube.com/WOMENWHOCODE11) . I'm planning to launch more open source products in 2024.
 
-😄 &nbsp; When I'm not coding, you can find me writing insightful articles on [Medium](https://medium.com/@MahimaBhardwaj21),  or creating content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922) & [Twitter](https://twitter.com/MahimaBh2)
+😄 &nbsp; When I'm not coding, you can find me writing insightful articles on [Medium](https://medium.com/@MahimaBhardwaj21),  or creating content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b/) & [Twitter](https://twitter.com/MahimaBh2)
 
 🔥 &nbsp; In short, I love interacting with people and exploring life with tech in general :)
 
