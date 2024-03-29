@@ -43,7 +43,7 @@
 
 🔖 &nbsp; I have written several trending articles on [medium](https://medium.com/@MahimaBhardwaj21) with more than 1k views . Shoot me a message at mahimabhardwajmahimabhardwaj@gmail.com for sponsorships and collaboration.
 
-🎁 I've been active on Youtube, where my outstanding [Youtube](https://www.Youtube.com/WOMENWHOCODE11) . I'm planning to launch more open source products in 2024.
+🎁 I've been active on Youtube, where my outstanding [Youtube](https://www.youtube.com/@WOMENWHOCODE11) . I'm planning to launch more open source products in 2024.
 
 😄 &nbsp; When I'm not coding, you can find me writing insightful articles on [Medium](https://medium.com/@MahimaBhardwaj21),  or creating content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b/) & [Twitter](https://twitter.com/MahimaBh2)
 
