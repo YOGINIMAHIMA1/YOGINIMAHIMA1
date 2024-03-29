@@ -34,7 +34,7 @@
 
 🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b) and [Twitter](https://twitter.com/MahimaBh2).
 
-✨ I'm part of core developer team at [WOMENWHOCODE](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in Linked Top 4% Software Development Voice [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b/)[(https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card)].
+✨ I'm part of core developer team at [WOMENWHOCODE](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in Linked Top 4% Software Development Voice [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b/)
 
 
 🎓 &nbsp; I'm pursuing MCA From Sushant University, and played a pivotal role as a contributor of [LinksHub](https://github.com/rupali-codes/LinksHub) to turn it into open source success story.
