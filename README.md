@@ -116,7 +116,7 @@
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | Zomato Clone| [Github](https://github.com/YOGINIMAHIMA1/ZomatoClone) | [view](http://yogawithmahima.me/ZomatoClone/) | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| TODO APP|  [Github](https://melodic-sundae-e652cb.netlify.app/) | [view](https://melodic-sundae-e652cb.netlify.app/) | `Javascript` `GitHub` `GitHub- API`| 
+| TODO APP|  [Github](https://melodic-sundae-e652cb.netlify.app/) | [view](https://melodic-sundae-e652cb.netlify.app/) | ` reactJs Javascript` `GitHub` `GitHub- API`| 
 |  Portfolio App |  [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)|  `Html` `Css` `Javascript`| 
 | Passenger Counter App | [Github](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase`  `CSS3` |
 | Digital Clock | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task1(DIGITAL%20CLOCK)) | `Next.js` `JavaScript` `Postman`  `CSS3` |
