@@ -119,7 +119,7 @@
 | TODO APP|  [Github](https://melodic-sundae-e652cb.netlify.app/) | [view](https://melodic-sundae-e652cb.netlify.app/) | ` reactJs Javascript` `GitHub` `GitHub- API` `Node JS`| 
 |  Portfolio App |  [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)|  `Html` `Css` `Javascript`| 
 | Passenger Counter App | [Github](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase`  `CSS3` |
-| Digital Clock | [Github](http://yogawithmahima.me/DIGITALCLOCK/)) | [view](https://github.com/YOGINIMAHIMA1/YOGINIMAHIMA1/assets/90374311/947a6739-fc97-4c0d-aa68-e10fbda7b97a) | `JavaScript` `HTML5`  `CSS3`  `Git`|
+| Digital Clock | [Github](http://yogawithmahima.me/DIGITALCLOCK/) | [view](https://mahimadigitalclock.netlify.app/) | `JavaScript` `HTML5`  `CSS3`  `Git`|
 | Portfolio | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio))| `Html` `CSS`  `Javascript`|
 | TicTacToc.cpp |   [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) |[View](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp)| `CPP`
 | Special Repository | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2)| [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
