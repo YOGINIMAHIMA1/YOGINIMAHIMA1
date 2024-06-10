@@ -121,7 +121,7 @@
 | Portfolio App |  [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)|  `Html` `Css` `Javascript`| 
 | Passenger Counter App | [Github](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase`  `CSS3` |
 | Digital Clock | [Github](http://yogawithmahima.me/DIGITALCLOCK/) | [view](https://mahimadigitalclock.netlify.app/) | `JavaScript` `HTML5`  `CSS3`  `Git`|
-|Game Project| [Github](http://yogawithmahima.me/Html5-Basic-Game-Project/) | [view](https://gameproject2024.netlify.app/)| `Html` `CSS`  `Javascript`|
+|Game Project| [Github](http://yogawithmahima.me/Html5-Basic-Game-Project/) | [view](https://gameproject2024.netlify.app/)| `Html` `CSS`  `Git` `Github`|
 | TicTacToc.cpp |   [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) |[View](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp)| `CPP`
 | Special Repository | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2)| [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
 | Number Guess Game | [Github](Task1(NumberGuessGame).cpp) | [View](Task1(NumberGuessGame).cpp) |  `CPP`  `Data Structure`|
