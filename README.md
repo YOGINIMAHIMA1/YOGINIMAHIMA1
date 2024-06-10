@@ -115,8 +115,9 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Zomato Clone| [Github](http://yogawithmahima.me/ZOMATOCLONEORG/) | [view](https://zomatocloneorg.netlify.app/) | `Javascript` `HTML5` `CSS3` `Bootstrap` `Git`  | 
 | TODO APP|  [Github](https://melodic-sundae-e652cb.netlify.app/) | [view](https://melodic-sundae-e652cb.netlify.app/) | ` reactJs Javascript` `GitHub` `GitHub- API` `Node JS`| 
+| Zomato Clone| [Github](http://yogawithmahima.me/ZOMATOCLONEORG/) | [view](https://zomatocloneorg.netlify.app/) | `Javascript` `HTML5` `CSS3` `Bootstrap` `Git`  | 
+| AGE CALCULATOR APP|  [Github](http://yogawithmahima.me/AGECALCULATORAPP/) | [view](https://agecalculator2024.netlify.app/) |  `Javascript` `GitHub` `Git` `HTML5` `CSS`| 
 |  Portfolio App |  [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)|  `Html` `Css` `Javascript`| 
 | Passenger Counter App | [Github](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase`  `CSS3` |
 | Digital Clock | [Github](http://yogawithmahima.me/DIGITALCLOCK/) | [view](https://mahimadigitalclock.netlify.app/) | `JavaScript` `HTML5`  `CSS3`  `Git`|
