@@ -118,10 +118,10 @@
 | TODO APP|  [Github](https://melodic-sundae-e652cb.netlify.app/) | [view](https://melodic-sundae-e652cb.netlify.app/) | ` reactJs Javascript` `GitHub` `GitHub- API` `Node JS`| 
 | Zomato Clone| [Github](http://yogawithmahima.me/ZOMATOCLONEORG/) | [view](https://zomatocloneorg.netlify.app/) | `Javascript` `HTML5` `CSS3` `Bootstrap` `Git`  | 
 | AGE CALCULATOR APP|  [Github](http://yogawithmahima.me/AGECALCULATORAPP/) | [view](https://agecalculator2024.netlify.app/) |  `Javascript` `GitHub` `Git` `HTML5` `CSS`| 
-|  Portfolio App |  [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)|  `Html` `Css` `Javascript`| 
+| Portfolio App |  [Github](https://yoginimahima1.github.io/MahimaPortfolio/)| [view](https://yoginimahima1.github.io/MahimaPortfolio//)|  `Html` `Css` `Javascript`| 
 | Passenger Counter App | [Github](http://yogawithmahima.me/PassengerCounterApp/) | [view](http://yogawithmahima.me/PassengerCounterApp/) | `Next.js` `JavaScript` `React` `Firebase`  `CSS3` |
 | Digital Clock | [Github](http://yogawithmahima.me/DIGITALCLOCK/) | [view](https://mahimadigitalclock.netlify.app/) | `JavaScript` `HTML5`  `CSS3`  `Git`|
-| Portfolio | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio)) | [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/main/Task3(portfolio))| `Html` `CSS`  `Javascript`|
+|Game Project| [Github](http://yogawithmahima.me/Html5-Basic-Game-Project/) | [view](https://gameproject2024.netlify.app/)| `Html` `CSS`  `Javascript`|
 | TicTacToc.cpp |   [Github](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp) |[View](https://github.com/YOGINIMAHIMA1/CodesoftTask/blob/main/task3(tic%20tac%20toe).cpp)| `CPP`
 | Special Repository | [Github](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2)| [view](https://github.com/YOGINIMAHIMA1/Codesoft-Javascript-/tree/69dad7c43e5492635c658aedd179610b900286bf/TASK2) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
 | Number Guess Game | [Github](Task1(NumberGuessGame).cpp) | [View](Task1(NumberGuessGame).cpp) |  `CPP`  `Data Structure`|
