@@ -30,7 +30,7 @@
 
 <i>&nbsp; <h2><u><b>Building products with open source.<u><b></i><br><br></h2>
 
-👋 Greetings! It's great to have you here. I'm Mahima Bhardwaj, a frontend developer from India, super into Open Source, and love creating contect on Youtube and LinkedIn.
+👋 Greetings! It's great to have you here. I'm Mahima Bhardwaj, a frontend developer from India, super into Open Source, and love creating content on Youtube and LinkedIn.
 
 🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b) and [Twitter](https://twitter.com/MahimaBh2).
 
