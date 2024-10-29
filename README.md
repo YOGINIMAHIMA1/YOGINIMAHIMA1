@@ -29,7 +29,15 @@
 
 <i>&nbsp; <h2><u><b>Building products with open source.<u><b></i><br><br></h2>
 
-👋 Greetings! It's great to have you here. I'm Mahima Bhardwaj. I've had the privilege of working with esteemed companies like Wipro, PeopleStrong, and The Spark Foundation. I am also passionate about creating valuable content on YouTube and LinkedIn, where I share insights and knowledge.
+ 👨‍🎓 Master of Computer Applications (MCA) Student
+I am a dedicated second-year MCA student with a strong foundation in computer science principles, passionate about software development and system design. Through my studies, I have gained skills in programming, data structures, algorithms, and network systems, particularly interested in real-time communication and network programming. My academic journey is driven by a desire to tackle complex problems and explore innovative solutions.
+
+💼 Professional Experience at Wipro and People
+As a trainee at Wipro, I worked on projects such as network file sharing and inter-process communication (IPC) frameworks, applying C++, Linux system programming, and socket programming. I developed a secure client-server application, enhancing data transfer and user authentication processes. Additionally, my role as an Application Support Trainee at People involved troubleshooting CRM systems, utilizing SQL to analyze and resolve multi-tenant issues, and enhancing product performance through cross-functional collaboration.
+
+💡 Projects & Technical Skills
+I have also developed a real-time chat application, which further honed my understanding of network protocols and data exchange. My technical skill set includes C++, Python, SQL, HTML/CSS, and React, with a strong grasp of Linux system commands and Git. I'm excited to connect with professionals in software development and network engineering, ready to leverage my skills and experience in innovative projects.
+
 🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b) and [Twitter](https://twitter.com/MahimaBh2).
 
 ✨ I'm part of core developer team at [WOMENWHOCODE](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in Linked Top 4% Software Development Voice [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b/)
