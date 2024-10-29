@@ -30,8 +30,7 @@
 
 <i>&nbsp; <h2><u><b>Building products with open source.<u><b></i><br><br></h2>
 
-👋 Greetings! It's great to have you here. I'm Mahima Bhardwaj, a frontend developer from India, super into Open Source, and love creating content on Youtube and LinkedIn.
-
+👋 Greetings! It's great to have you here. I'm Mahima Bhardwaj. I've had the privilege of working with esteemed companies like Wipro, PeopleStrong, and The Spark Foundation. I am also passionate about creating valuable content on YouTube and LinkedIn, where I share insights and knowledge.
 🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b) and [Twitter](https://twitter.com/MahimaBh2).
 
 ✨ I'm part of core developer team at [WOMENWHOCODE](https://github.com/WOMENWHOCODE), connecting sponsors and tech community events. I rank in Linked Top 4% Software Development Voice [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b/)
