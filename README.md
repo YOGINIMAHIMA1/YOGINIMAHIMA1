@@ -170,12 +170,9 @@ You can check the workflows here: (.github/workflows)
 
 <div align="center">
   <a href="https://www.coursera.org/user/8063ef1712acbe04d6451e09aab1d920"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
-  <br>
-  <a href="https://leetcode.com/skillmatter/"><img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/bhardwajmahima81"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a> 
+
   <br> 
   <a href="https://www.producthunt.com/@mahima_bhardwaj2"><img src="https://img.shields.io/badge/Product%20Hunt-0A0209?style=for-the-badge&logo=Product%20Hunt&logoColor=d5d5d5" /></a>
-  <a href="https://www.hackerrank.com/profile/bhardwajmahima81"><img src="https://img.shields.io/badge/Hackerrank-0A0209?style=for-the-badge&logo=hackerrank&logoColor=d5d5d5" /></a>
   <a href="https://devpost.com/YOGINIMAHIMA1"><img src="https://img.shields.io/badge/Devpost-0A0209?style=for-the-badge&logo=Devpost&logoColor=d5d5d5" /></a> 
   <a href="https://medium.com/Mahimabhardwaj21"><img src="https://img.shields.io/badge/medium-0A0209?style=for-the-badge&logo=medium&logoColor=d5d5d5" ></a>
   <br>
