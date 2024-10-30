@@ -29,13 +29,13 @@
 
 <i>&nbsp; <h2><u><b>Building products with open source.<u><b></i><br><br></h2>
 
- 👨‍🎓 Master of Computer Applications (MCA) Student
+ 👨‍🎓 Master of Computer Applications (MCA) Student <br>
 I am a dedicated second-year MCA student with a strong foundation in computer science principles, passionate about software development and system design. Through my studies, I have gained skills in programming, data structures, algorithms, and network systems, particularly interested in real-time communication and network programming. My academic journey is driven by a desire to tackle complex problems and explore innovative solutions.
 
-💼 Professional Experience at Wipro and PeopleStrong
+💼 Professional Experience at Wipro and PeopleStrong <br>
 As a trainee at Wipro, I worked on projects such as network file sharing and inter-process communication (IPC) frameworks, applying C++, Linux system programming, and socket programming. I developed a secure client-server application, enhancing data transfer and user authentication processes. Additionally, my role as an Application Support Trainee at PeopleStrong involved troubleshooting CRM systems, utilizing SQL to analyze and resolve multi-tenant issues, and enhancing product performance through cross-functional collaboration.
 
-💡 Projects & Technical Skills
+💡 Projects & Technical Skills <br>
 I have also developed a real-time chat application, which further honed my understanding of network protocols and data exchange. My technical skill set includes C++, SQL, HTML/CSS, and React, with a strong grasp of Linux system commands and Git. I'm excited to connect with professionals in software development and network engineering, ready to leverage my skills and experience in innovative projects.
 
 🎯 I regularly create inspirational content on [LinkedIn](https://www.linkedin.com/in/mahima-bhardwaj-49425922b) and [Twitter](https://twitter.com/MahimaBh2).
@@ -47,7 +47,7 @@ I have also developed a real-time chat application, which further honed my under
 
 🚀 &nbsp; I'm also part of exciting communities like [WebXDAO](https://github.com/WebXDAO), [Taipy](https://github.com/Avaiga/taipy), [DEV](https://dev.to/about) and my forte lies in exploring technologies like Nextjs with TypeScript to build products.
 
-🔖 &nbsp; I have written several trending articles on [medium](https://medium.com/@MahimaBhardwaj21) with more than 1k views . Shoot me a message at mahimabhardwajmahimabhardwaj@gmail.com for sponsorships and collaboration.
+🔖 &nbsp; I have written several trending articles on [medium](https://medium.com/@MahimaBhardwaj21) with more than 1k views . 
 
 🎁 I've been active on Youtube, where my outstanding [Youtube](https://www.youtube.com/@WOMENWHOCODE11) . I'm planning to launch more open source products in 2024.
 
